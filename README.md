@@ -1,2 +1,18 @@
-# canteen-yoga-center
-Floor plan for a canteen and yoga center, showing yoga hall, seating area, kitchen, storage, food counter, and central lobby
+# Canteen and Yoga Center Floor Plan
+
+This repository contains the architectural floor plan for a combined canteen and yoga center.
+
+## Layout Includes
+- Yoga hall
+- Seating capacity area
+- Kitchen
+- Storage
+- Food counter
+- Lobby
+- Passage areas
+
+## File
+- `Yoga.jpg`
+
+## Purpose
+This repository is for documentation and reference.
